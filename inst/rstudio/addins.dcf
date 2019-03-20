@@ -1,4 +1,9 @@
 Name: Insert ->
 Description: Inserts ` -> ` at the cursor position.
-Binding: insertInAddin
+Binding: insert_right_arrow
+Interactive: false
+
+Name: Insert %$%
+Description: Inserts ` %$% ` at the cursor position.
+Binding: insert_columes_arrow
 Interactive: false
