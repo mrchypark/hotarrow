@@ -7,3 +7,8 @@ Name: Insert %$%
 Description: Inserts ` %$% ` at the cursor position.
 Binding: insert_columes_arrow
 Interactive: false
+
+Name: Insert %T>%
+Description: Inserts ` %T>% ` at the cursor position.
+Binding: insert_tee_arrow
+Interactive: false
