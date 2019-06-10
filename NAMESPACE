@@ -2,3 +2,4 @@
 
 export(insert_columes_arrow)
 export(insert_right_arrow)
+export(insert_tee_arrow)

@@ -3,6 +3,6 @@
 #' Call this function as an addin to insert \code{ %T>% } at the cursor position.
 #'
 #' @export
-insert_right_arrow <- function() {
+insert_tee_arrow <- function() {
   rstudioapi::insertText(" %T>% ")
 }
