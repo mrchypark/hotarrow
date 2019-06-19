@@ -7,5 +7,5 @@
 insert_columes_arrow()
 }
 \description{
-Insert %$%.
+Call this function as an addin to insert \code{\code{\%$\%}} at the cursor position.
 }

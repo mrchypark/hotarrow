@@ -7,5 +7,5 @@
 insert_tee_arrow()
 }
 \description{
-Insert %T>%.
+Call this function as an addin to insert \code{\code{\%T>\%}} at the cursor position.
 }
